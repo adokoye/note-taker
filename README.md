@@ -6,7 +6,7 @@
 
   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
-    This is a application where you can record notes and store them on the page as a reminder or todo list. You can also record new notes, view previously stored notes and delete notes at will.
+    This is an application where you can record notes and store them on the page as a reminder or todo list. You can also record new notes, view previously stored notes and delete notes as you progress.
 
 
   # Table of Contents
@@ -39,7 +39,7 @@
 
   ## Credits:
 
-  Made by Adaobi C Okoye
+  Curated by Adaobi C Okoye
 
 
   ## License:
@@ -69,7 +69,7 @@
   - [Github Profile](https://github.com/adokoye)
 
   If you have any additional questions, feel free to email them to me:
-  - [Email](adaobicynthia99@gmail.com)
+  - [Email](adaobi.okoye@ttu.edu)
   
   ## Links
   [Heroku Link](https://adaobi-note-taker.herokuapp.com/)
