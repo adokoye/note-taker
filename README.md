@@ -72,6 +72,6 @@
   - [Email](adaobi.okoye@ttu.edu)
   
   ## Links
-  [Heroku Link](https://adaobi-note-taker.herokuapp.com/)
+  [Heroku Link](https://blooming-sierra-68567.herokuapp.com/)
 
 # note-taker
