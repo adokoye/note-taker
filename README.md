@@ -6,7 +6,7 @@
 
   ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
 
-    This is an application where you can record notes and store them on the page as a reminder or todo list. You can also record new notes, view previously stored notes and delete notes as you progress.
+    This is an application where you can record notes and store them as a reminder or todo list. You can also record new notes, view previously stored notes and delete notes as you progress.
 
 
   # Table of Contents
@@ -23,7 +23,7 @@
 
   ## Installation:
 
-  Clone or download the repository to your machine. Initiate with ```npm i```
+  Clone or download the repository to your machine and then initiate with ```npm i```
 
 
 ## Technologies
