@@ -19,7 +19,6 @@
   - [Contribution](#contributing)
   - [Tests](#tests)
   - [Questions](#questions)
-  - [Walkthrough](#walkthrough)
 
   ## Installation:
 
@@ -54,9 +53,6 @@
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
   
   The project is open-source
-
-  ## Walkthrough
-  [Walkthrough Video]()
   
   ## Tests:
 
