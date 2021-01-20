@@ -57,7 +57,9 @@
   ## Tests:
 
   no testing
-
+  
+  
+![Screenshot](https://github.com/adokoye/note-taker/blob/main/Screen%20Shot%202021-01-19%20at%209.18.56%20PM.png)
   
   ## Questions:
 
